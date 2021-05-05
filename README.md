@@ -22,11 +22,11 @@
    
   - highshool_paper.pdf　論文のPDF 
   
-  - コードの参考書籍・サイト
-    - [Numpy だけで書いたガウスの消去法で連立 1 次方程式を解いて みた WATLAB](https://watlab-blog.com/2020/05/01/gaussian-elimination/)
-    - [Python で粘菌ネットワーク Qiita](https://qiita.com/STInverSpinel/items/8ced06ea7881613a3e2c)
-    - [増井敏克  Python ではじめるアルゴリズム入門 伝統的なアルゴリズムで学ぶ定石と計算量」翔泳社](https://www.amazon.co.jp/Python%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E5%85%A5%E9%96%80-%E4%BC%9D%E7%B5%B1%E7%9A%84%E3%81%AA%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%A7%E5%AD%A6%E3%81%B6%E5%AE%9A%E7%9F%B3%E3%81%A8%E8%A8%88%E7%AE%97%E9%87%8F-%E5%A2%97%E4%BA%95-%E6%95%8F%E5%85%8B/dp/4798163236)
-    - [株式会社電通国際情報サービス 小川雄太郎 「つくりながら学ぶ！ 深層強化学習 PyTorchによる実践プログラミング」 マイナビ出版](https://www.amazon.co.jp/%E3%81%A4%E3%81%8F%E3%82%8A%E3%81%AA%E3%81%8C%E3%82%89%E5%AD%A6%E3%81%B6%EF%BC%81%E6%B7%B1%E5%B1%A4%E5%BC%B7%E5%8C%96%E5%AD%A6%E7%BF%92-PyTorch%E3%81%AB%E3%82%88%E3%82%8B%E5%AE%9F%E8%B7%B5%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%9B%BB%E9%80%9A%E5%9B%BD%E9%9A%9B%E6%83%85%E5%A0%B1%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9-%E5%B0%8F%E5%B7%9D%E9%9B%84%E5%A4%AA%E9%83%8E-ebook/dp/B07DZVRXFK)
+ ## コードの参考書籍・サイト
+  - [Numpy だけで書いたガウスの消去法で連立 1 次方程式を解いて みた WATLAB](https://watlab-blog.com/2020/05/01/gaussian-elimination/)
+  - [Python で粘菌ネットワーク Qiita](https://qiita.com/STInverSpinel/items/8ced06ea7881613a3e2c)
+  - [増井敏克  Python ではじめるアルゴリズム入門 伝統的なアルゴリズムで学ぶ定石と計算量」翔泳社](https://www.amazon.co.jp/Python%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E5%85%A5%E9%96%80-%E4%BC%9D%E7%B5%B1%E7%9A%84%E3%81%AA%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%A7%E5%AD%A6%E3%81%B6%E5%AE%9A%E7%9F%B3%E3%81%A8%E8%A8%88%E7%AE%97%E9%87%8F-%E5%A2%97%E4%BA%95-%E6%95%8F%E5%85%8B/dp/4798163236)
+  - [株式会社電通国際情報サービス 小川雄太郎 「つくりながら学ぶ！ 深層強化学習 PyTorchによる実践プログラミング」 マイナビ出版](https://www.amazon.co.jp/%E3%81%A4%E3%81%8F%E3%82%8A%E3%81%AA%E3%81%8C%E3%82%89%E5%AD%A6%E3%81%B6%EF%BC%81%E6%B7%B1%E5%B1%A4%E5%BC%B7%E5%8C%96%E5%AD%A6%E7%BF%92-PyTorch%E3%81%AB%E3%82%88%E3%82%8B%E5%AE%9F%E8%B7%B5%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%9B%BB%E9%80%9A%E5%9B%BD%E9%9A%9B%E6%83%85%E5%A0%B1%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9-%E5%B0%8F%E5%B7%9D%E9%9B%84%E5%A4%AA%E9%83%8E-ebook/dp/B07DZVRXFK)
 
   
 
