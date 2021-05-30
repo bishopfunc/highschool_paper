@@ -12,7 +12,7 @@
 
 ## 発表経験
    - [首都圏オープン2021（TSEF2021）](http://www.f.waseda.jp/yasushin/posts/post16.html) 優等賞
-   - [ジュニア農芸化学会2021](https://www.jsbba.or.jp/2021/program_junior.html)P13-B 参加賞 
+   - [ジュニア農芸化学会2021](https://www.jsbba.or.jp/2021/program_junior.html) P13-B 参加賞 
    
 ## 各ファイルの紹介
   - dire.csv　各マスにおける移動可能な方向を1,0で表現する
